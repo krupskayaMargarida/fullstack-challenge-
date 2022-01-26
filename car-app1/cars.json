@@ -1,0 +1,8832 @@
+[
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f60"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Caetano Power",
+    "min_mileage": 19202,
+    "max_mileage": 42828
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f61"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Auto Machado",
+    "min_mileage": 5940,
+    "max_mileage": 13139
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f62"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6464,
+    "max_mileage": 16700
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f63"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 5502,
+    "max_mileage": 26082
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f64"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7274,
+    "max_mileage": 43849
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f65"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8393,
+    "max_mileage": 13427
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f66"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Caetano Power",
+    "min_mileage": 5981,
+    "max_mileage": 16287
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f67"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10554,
+    "max_mileage": 23642
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f68"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 16383,
+    "max_mileage": 29390
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f69"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 22958,
+    "max_mileage": 30334
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f6a"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Caetano Power",
+    "min_mileage": 16998,
+    "max_mileage": 48886
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f6b"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Santogal Jump",
+    "min_mileage": 9272,
+    "max_mileage": 37231
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f6c"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8931,
+    "max_mileage": 18701
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f6d"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12827,
+    "max_mileage": 24073
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f6e"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 6905,
+    "max_mileage": 12162
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f6f"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Caetano Power",
+    "min_mileage": 23229,
+    "max_mileage": 32755
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f70"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8132,
+    "max_mileage": 24748
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f71"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Machado",
+    "min_mileage": 16695,
+    "max_mileage": 39563
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f72"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13885,
+    "max_mileage": 35976
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f73"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 10695,
+    "max_mileage": 47996
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f74"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12322,
+    "max_mileage": 25304
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f75"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21603,
+    "max_mileage": 35997
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f76"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 10157,
+    "max_mileage": 29886
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f77"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 7762,
+    "max_mileage": 41583
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f78"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 17165,
+    "max_mileage": 35729
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f79"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 11600,
+    "max_mileage": 37020
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f7a"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10206,
+    "max_mileage": 29648
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f7b"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17143,
+    "max_mileage": 32029
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f7c"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7736,
+    "max_mileage": 16128
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f7d"
+    },
+    "brand": "AUDI",
+    "model": "A4",
+    "dealer": "Auto Machado",
+    "min_mileage": 6415,
+    "max_mileage": 32417
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f7e"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Caetano Power",
+    "min_mileage": 11468,
+    "max_mileage": 42613
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f7f"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 12838,
+    "max_mileage": 49735
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f80"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20076,
+    "max_mileage": 28655
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f81"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19635,
+    "max_mileage": 20188
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f82"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Caetano Power",
+    "min_mileage": 5937,
+    "max_mileage": 37916
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f83"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13447,
+    "max_mileage": 29297
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f84"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Caetano Power",
+    "min_mileage": 18675,
+    "max_mileage": 25552
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f85"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18606,
+    "max_mileage": 29436
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f86"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 14483,
+    "max_mileage": 16391
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f87"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18253,
+    "max_mileage": 22995
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f88"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18761,
+    "max_mileage": 29733
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f89"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 19026,
+    "max_mileage": 18776
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f8a"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 16112,
+    "max_mileage": 14384
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f8b"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Santogal Jump",
+    "min_mileage": 5924,
+    "max_mileage": 20200
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f8c"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 23130,
+    "max_mileage": 22584
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f8d"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17620,
+    "max_mileage": 30264
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f8e"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 19819,
+    "max_mileage": 22241
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f8f"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13918,
+    "max_mileage": 17992
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f90"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9349,
+    "max_mileage": 43832
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f91"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Machado",
+    "min_mileage": 14493,
+    "max_mileage": 17346
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f92"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 8034,
+    "max_mileage": 41812
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f93"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Auto Machado",
+    "min_mileage": 21610,
+    "max_mileage": 24886
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f94"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13777,
+    "max_mileage": 48365
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f95"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7704,
+    "max_mileage": 34352
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f96"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Auto Machado",
+    "min_mileage": 9127,
+    "max_mileage": 23086
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f97"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 17494,
+    "max_mileage": 13803
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f98"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Caetano Power",
+    "min_mileage": 5682,
+    "max_mileage": 22386
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f99"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14993,
+    "max_mileage": 18183
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f9a"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 17211,
+    "max_mileage": 37291
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f9b"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7370,
+    "max_mileage": 12910
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f9c"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Santogal Jump",
+    "min_mileage": 5858,
+    "max_mileage": 31075
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f9d"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 6340,
+    "max_mileage": 12866
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f9e"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Caetano Power",
+    "min_mileage": 8832,
+    "max_mileage": 39627
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996f9f"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Machado",
+    "min_mileage": 19475,
+    "max_mileage": 21945
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa0"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Machado",
+    "min_mileage": 17304,
+    "max_mileage": 14327
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa1"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Caetano Power",
+    "min_mileage": 21254,
+    "max_mileage": 10278
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa2"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Caetano Power",
+    "min_mileage": 11443,
+    "max_mileage": 10250
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa3"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Caetano Power",
+    "min_mileage": 8427,
+    "max_mileage": 12312
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa4"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Auto Jamor",
+    "min_mileage": 19678,
+    "max_mileage": 19019
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa5"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18852,
+    "max_mileage": 23859
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa6"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11353,
+    "max_mileage": 36751
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa7"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8968,
+    "max_mileage": 10508
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa8"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 16745,
+    "max_mileage": 38751
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fa9"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Santogal Jump",
+    "min_mileage": 9112,
+    "max_mileage": 10679
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996faa"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Santogal Jump",
+    "min_mileage": 23312,
+    "max_mileage": 29243
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fab"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8879,
+    "max_mileage": 46595
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fac"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 18701,
+    "max_mileage": 46458
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fad"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20712,
+    "max_mileage": 31117
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fae"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6389,
+    "max_mileage": 20979
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996faf"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12213,
+    "max_mileage": 28491
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb0"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 15642,
+    "max_mileage": 23916
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb1"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7703,
+    "max_mileage": 29052
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb2"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 17691,
+    "max_mileage": 46370
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb3"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13907,
+    "max_mileage": 25624
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb4"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 14206,
+    "max_mileage": 35573
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb5"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14673,
+    "max_mileage": 30800
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb6"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Santogal Jump",
+    "min_mileage": 11870,
+    "max_mileage": 12285
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb7"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 5542,
+    "max_mileage": 18901
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb8"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9186,
+    "max_mileage": 40188
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fb9"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18000,
+    "max_mileage": 27120
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fba"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16382,
+    "max_mileage": 27327
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fbb"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6015,
+    "max_mileage": 33457
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fbc"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Machado",
+    "min_mileage": 22737,
+    "max_mileage": 20885
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fbd"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20759,
+    "max_mileage": 35465
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fbe"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Jamor",
+    "min_mileage": 23361,
+    "max_mileage": 34885
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fbf"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Caetano Power",
+    "min_mileage": 7687,
+    "max_mileage": 31662
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc0"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Auto Machado",
+    "min_mileage": 18873,
+    "max_mileage": 32171
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc1"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14325,
+    "max_mileage": 14992
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc2"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9846,
+    "max_mileage": 10402
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc3"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11382,
+    "max_mileage": 39128
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc4"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 5820,
+    "max_mileage": 28091
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc5"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Machado",
+    "min_mileage": 18176,
+    "max_mileage": 46301
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc6"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Machado",
+    "min_mileage": 12888,
+    "max_mileage": 20238
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc7"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20149,
+    "max_mileage": 40520
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc8"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Auto Machado",
+    "min_mileage": 21083,
+    "max_mileage": 35948
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fc9"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Machado",
+    "min_mileage": 11429,
+    "max_mileage": 27481
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fca"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Machado",
+    "min_mileage": 15757,
+    "max_mileage": 28717
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fcb"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 9107,
+    "max_mileage": 17943
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fcc"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 19667,
+    "max_mileage": 29027
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fcd"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7575,
+    "max_mileage": 11727
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fce"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 20310,
+    "max_mileage": 24842
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fcf"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20560,
+    "max_mileage": 17865
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd0"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 21858,
+    "max_mileage": 21431
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd1"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15380,
+    "max_mileage": 45853
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd2"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20094,
+    "max_mileage": 17160
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd3"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 17860,
+    "max_mileage": 14930
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd4"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Machado",
+    "min_mileage": 8555,
+    "max_mileage": 41694
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd5"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7088,
+    "max_mileage": 15209
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd6"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6697,
+    "max_mileage": 39223
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd7"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 19560,
+    "max_mileage": 47722
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd8"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21493,
+    "max_mileage": 16479
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fd9"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Auto Machado",
+    "min_mileage": 22070,
+    "max_mileage": 16643
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fda"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Caetano Power",
+    "min_mileage": 7994,
+    "max_mileage": 25590
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fdb"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Caetano Power",
+    "min_mileage": 15351,
+    "max_mileage": 11699
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fdc"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Caetano Power",
+    "min_mileage": 7364,
+    "max_mileage": 27021
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fdd"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14476,
+    "max_mileage": 11459
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fde"
+    },
+    "brand": "PEUGEOUT",
+    "model": "3008",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11762,
+    "max_mileage": 27506
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fdf"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 21613,
+    "max_mileage": 27150
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe0"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13166,
+    "max_mileage": 43598
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe1"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 17018,
+    "max_mileage": 39767
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe2"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Caetano Power",
+    "min_mileage": 23456,
+    "max_mileage": 12514
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe3"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13681,
+    "max_mileage": 32153
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe4"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Jamor",
+    "min_mileage": 9310,
+    "max_mileage": 40604
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe5"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9915,
+    "max_mileage": 45211
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe6"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 16208,
+    "max_mileage": 41673
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe7"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Santogal Jump",
+    "min_mileage": 10500,
+    "max_mileage": 26228
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe8"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12097,
+    "max_mileage": 39575
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fe9"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20979,
+    "max_mileage": 33686
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fea"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Machado",
+    "min_mileage": 13692,
+    "max_mileage": 27534
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996feb"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Santogal Jump",
+    "min_mileage": 9628,
+    "max_mileage": 38875
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fec"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15346,
+    "max_mileage": 46638
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fed"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 22735,
+    "max_mileage": 46786
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fee"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6402,
+    "max_mileage": 21628
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fef"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12384,
+    "max_mileage": 23371
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff0"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8697,
+    "max_mileage": 44008
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff1"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Caetano Power",
+    "min_mileage": 20317,
+    "max_mileage": 12977
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff2"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Machado",
+    "min_mileage": 17866,
+    "max_mileage": 33465
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff3"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 9947,
+    "max_mileage": 21378
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff4"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 20800,
+    "max_mileage": 49239
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff5"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19360,
+    "max_mileage": 47107
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff6"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 5567,
+    "max_mileage": 48780
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff7"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 13185,
+    "max_mileage": 13896
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff8"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Auto Machado",
+    "min_mileage": 14787,
+    "max_mileage": 45222
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ff9"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20191,
+    "max_mileage": 35248
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ffa"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19095,
+    "max_mileage": 17386
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ffb"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Caetano Power",
+    "min_mileage": 8782,
+    "max_mileage": 44435
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ffc"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9672,
+    "max_mileage": 30591
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ffd"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18561,
+    "max_mileage": 33201
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996ffe"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 11641,
+    "max_mileage": 36562
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8996fff"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 9136,
+    "max_mileage": 32448
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997000"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12512,
+    "max_mileage": 30717
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997001"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7285,
+    "max_mileage": 18184
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997002"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20217,
+    "max_mileage": 15108
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997003"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Jamor",
+    "min_mileage": 22687,
+    "max_mileage": 16030
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997004"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20025,
+    "max_mileage": 25298
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997005"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16450,
+    "max_mileage": 47544
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997006"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13346,
+    "max_mileage": 11656
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997007"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20556,
+    "max_mileage": 37971
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997008"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 21301,
+    "max_mileage": 44507
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997009"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22800,
+    "max_mileage": 11803
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899700a"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Machado",
+    "min_mileage": 23379,
+    "max_mileage": 47959
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899700b"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Caetano Power",
+    "min_mileage": 14642,
+    "max_mileage": 30960
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899700c"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22952,
+    "max_mileage": 10255
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899700d"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Caetano Power",
+    "min_mileage": 12935,
+    "max_mileage": 34429
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899700e"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 16390,
+    "max_mileage": 23748
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899700f"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 18868,
+    "max_mileage": 27262
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997010"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Caetano Power",
+    "min_mileage": 14032,
+    "max_mileage": 21042
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997011"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 19012,
+    "max_mileage": 42438
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997012"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Caetano Power",
+    "min_mileage": 23100,
+    "max_mileage": 18803
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997013"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Santogal Jump",
+    "min_mileage": 10646,
+    "max_mileage": 39080
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997014"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Machado",
+    "min_mileage": 14920,
+    "max_mileage": 32732
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997015"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19012,
+    "max_mileage": 22898
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997016"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Caetano Power",
+    "min_mileage": 16052,
+    "max_mileage": 29297
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997017"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Auto Machado",
+    "min_mileage": 19106,
+    "max_mileage": 31270
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997018"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 16143,
+    "max_mileage": 42488
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997019"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 5790,
+    "max_mileage": 16249
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899701a"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 19494,
+    "max_mileage": 33893
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899701b"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Caetano Power",
+    "min_mileage": 14140,
+    "max_mileage": 44359
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899701c"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Machado",
+    "min_mileage": 13219,
+    "max_mileage": 37362
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899701d"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 14503,
+    "max_mileage": 35540
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899701e"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 19806,
+    "max_mileage": 44566
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899701f"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 14385,
+    "max_mileage": 29593
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997020"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17373,
+    "max_mileage": 14486
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997021"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15373,
+    "max_mileage": 45314
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997022"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 11392,
+    "max_mileage": 14605
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997023"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12376,
+    "max_mileage": 18993
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997024"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20425,
+    "max_mileage": 28275
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997025"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8054,
+    "max_mileage": 39849
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997026"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 15455,
+    "max_mileage": 27293
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997027"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 14357,
+    "max_mileage": 49599
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997028"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8133,
+    "max_mileage": 31373
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997029"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21075,
+    "max_mileage": 35271
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899702a"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6506,
+    "max_mileage": 19574
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899702b"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13646,
+    "max_mileage": 19989
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899702c"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 5577,
+    "max_mileage": 33367
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899702d"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20453,
+    "max_mileage": 39705
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899702e"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 9538,
+    "max_mileage": 28318
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899702f"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Auto Machado",
+    "min_mileage": 22309,
+    "max_mileage": 16791
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997030"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 14734,
+    "max_mileage": 10047
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997031"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 18705,
+    "max_mileage": 10817
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997032"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 11291,
+    "max_mileage": 30102
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997033"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20553,
+    "max_mileage": 41943
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997034"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Caetano Power",
+    "min_mileage": 9247,
+    "max_mileage": 29159
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997035"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20331,
+    "max_mileage": 27816
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997036"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Caetano Power",
+    "min_mileage": 21195,
+    "max_mileage": 25603
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997037"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Machado",
+    "min_mileage": 20692,
+    "max_mileage": 22903
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997038"
+    },
+    "brand": "BMW",
+    "model": "1 Series",
+    "dealer": "Auto Machado",
+    "min_mileage": 18599,
+    "max_mileage": 45240
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997039"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12214,
+    "max_mileage": 28012
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899703a"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22470,
+    "max_mileage": 24186
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899703b"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 14469,
+    "max_mileage": 22173
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899703c"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13552,
+    "max_mileage": 24883
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899703d"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16410,
+    "max_mileage": 23203
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899703e"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22924,
+    "max_mileage": 15072
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899703f"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 8179,
+    "max_mileage": 40576
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997040"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8822,
+    "max_mileage": 37977
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997041"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12514,
+    "max_mileage": 31765
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997042"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 11207,
+    "max_mileage": 16051
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997043"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 10878,
+    "max_mileage": 32667
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997044"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 9027,
+    "max_mileage": 31487
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997045"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22382,
+    "max_mileage": 33295
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997046"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 16296,
+    "max_mileage": 18872
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997047"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Caetano Power",
+    "min_mileage": 18367,
+    "max_mileage": 41995
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997048"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 16512,
+    "max_mileage": 22869
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997049"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 14268,
+    "max_mileage": 19523
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899704a"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 16244,
+    "max_mileage": 28166
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899704b"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Caetano Power",
+    "min_mileage": 12337,
+    "max_mileage": 41636
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899704c"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13529,
+    "max_mileage": 45487
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899704d"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6887,
+    "max_mileage": 24875
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899704e"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 23344,
+    "max_mileage": 35299
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899704f"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 17394,
+    "max_mileage": 36384
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997050"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 12171,
+    "max_mileage": 20273
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997051"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 15846,
+    "max_mileage": 24837
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997052"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20178,
+    "max_mileage": 26766
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997053"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 16848,
+    "max_mileage": 20789
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997054"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 9827,
+    "max_mileage": 24703
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997055"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18331,
+    "max_mileage": 36395
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997056"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 10849,
+    "max_mileage": 10951
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997057"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 23283,
+    "max_mileage": 45834
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997058"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 12337,
+    "max_mileage": 46067
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997059"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21095,
+    "max_mileage": 47970
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899705a"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9246,
+    "max_mileage": 49525
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899705b"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13843,
+    "max_mileage": 35028
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899705c"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 14921,
+    "max_mileage": 15339
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899705d"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Caetano Power",
+    "min_mileage": 6758,
+    "max_mileage": 24886
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899705e"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20312,
+    "max_mileage": 42754
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899705f"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 11995,
+    "max_mileage": 17539
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997060"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Caetano Power",
+    "min_mileage": 16655,
+    "max_mileage": 14305
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997061"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13439,
+    "max_mileage": 46838
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997062"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8324,
+    "max_mileage": 49549
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997063"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 10392,
+    "max_mileage": 40760
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997064"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 19009,
+    "max_mileage": 32710
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997065"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 10646,
+    "max_mileage": 13531
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997066"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8927,
+    "max_mileage": 42576
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997067"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21074,
+    "max_mileage": 42866
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997068"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 16297,
+    "max_mileage": 15438
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997069"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15454,
+    "max_mileage": 41398
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899706a"
+    },
+    "brand": "PEUGEOUT",
+    "model": "301",
+    "dealer": "Auto Jamor",
+    "min_mileage": 5923,
+    "max_mileage": 14446
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899706b"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6133,
+    "max_mileage": 16308
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899706c"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 23028,
+    "max_mileage": 37628
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899706d"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Caetano Power",
+    "min_mileage": 19146,
+    "max_mileage": 17577
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899706e"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18541,
+    "max_mileage": 22469
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899706f"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 16568,
+    "max_mileage": 14291
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997070"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 5541,
+    "max_mileage": 12131
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997071"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14645,
+    "max_mileage": 41369
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997072"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Caetano Power",
+    "min_mileage": 16078,
+    "max_mileage": 29387
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997073"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 11422,
+    "max_mileage": 21164
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997074"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9348,
+    "max_mileage": 34958
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997075"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 10491,
+    "max_mileage": 26446
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997076"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6576,
+    "max_mileage": 13815
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997077"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15140,
+    "max_mileage": 17377
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997078"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Auto Machado",
+    "min_mileage": 19506,
+    "max_mileage": 49151
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997079"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12482,
+    "max_mileage": 23847
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899707a"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 9021,
+    "max_mileage": 30566
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899707b"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7152,
+    "max_mileage": 44470
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899707c"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 19165,
+    "max_mileage": 45927
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899707d"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 20874,
+    "max_mileage": 27275
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899707e"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 16085,
+    "max_mileage": 12841
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899707f"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13481,
+    "max_mileage": 46957
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997080"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13631,
+    "max_mileage": 16967
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997081"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 11739,
+    "max_mileage": 40844
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997082"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 14469,
+    "max_mileage": 15042
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997083"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7037,
+    "max_mileage": 27677
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997084"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 18535,
+    "max_mileage": 46590
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997085"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13545,
+    "max_mileage": 38506
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997086"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Caetano Power",
+    "min_mileage": 15820,
+    "max_mileage": 40131
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997087"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13760,
+    "max_mileage": 20180
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997088"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22231,
+    "max_mileage": 22994
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997089"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7247,
+    "max_mileage": 46114
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899708a"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7946,
+    "max_mileage": 39388
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899708b"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 19321,
+    "max_mileage": 44335
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899708c"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 14309,
+    "max_mileage": 24039
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899708d"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19338,
+    "max_mileage": 11652
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899708e"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11642,
+    "max_mileage": 43104
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899708f"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Caetano Power",
+    "min_mileage": 21124,
+    "max_mileage": 34852
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997090"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 9875,
+    "max_mileage": 34290
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997091"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11938,
+    "max_mileage": 22353
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997092"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15102,
+    "max_mileage": 40233
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997093"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8517,
+    "max_mileage": 18536
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997094"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Auto Jamor",
+    "min_mileage": 18697,
+    "max_mileage": 34997
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997095"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 15077,
+    "max_mileage": 40391
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997096"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19687,
+    "max_mileage": 24874
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997097"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14858,
+    "max_mileage": 35551
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997098"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20783,
+    "max_mileage": 40990
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997099"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Auto Machado",
+    "min_mileage": 6767,
+    "max_mileage": 49532
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899709a"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20523,
+    "max_mileage": 45602
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899709b"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 10606,
+    "max_mileage": 11905
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899709c"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Machado",
+    "min_mileage": 20014,
+    "max_mileage": 35224
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899709d"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12572,
+    "max_mileage": 49699
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899709e"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9178,
+    "max_mileage": 33861
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899709f"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 7107,
+    "max_mileage": 46284
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a0"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9907,
+    "max_mileage": 39638
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a1"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7846,
+    "max_mileage": 14056
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a2"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 6103,
+    "max_mileage": 38093
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a3"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12801,
+    "max_mileage": 19182
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a4"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8907,
+    "max_mileage": 45436
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a5"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 6149,
+    "max_mileage": 35029
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a6"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7783,
+    "max_mileage": 44097
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a7"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17324,
+    "max_mileage": 10397
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a8"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10311,
+    "max_mileage": 32204
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970a9"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12136,
+    "max_mileage": 18021
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970aa"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 17667,
+    "max_mileage": 20723
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ab"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 12850,
+    "max_mileage": 23221
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ac"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 17984,
+    "max_mileage": 37637
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ad"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21559,
+    "max_mileage": 22394
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ae"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 7880,
+    "max_mileage": 30207
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970af"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 11650,
+    "max_mileage": 14894
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b0"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13841,
+    "max_mileage": 46029
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b1"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 11381,
+    "max_mileage": 27837
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b2"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21197,
+    "max_mileage": 32404
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b3"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Machado",
+    "min_mileage": 6106,
+    "max_mileage": 37102
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b4"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 16250,
+    "max_mileage": 42302
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b5"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Caetano Power",
+    "min_mileage": 19891,
+    "max_mileage": 37825
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b6"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 9778,
+    "max_mileage": 45196
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b7"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22602,
+    "max_mileage": 31061
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b8"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18375,
+    "max_mileage": 25811
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970b9"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17055,
+    "max_mileage": 22976
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ba"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Machado",
+    "min_mileage": 14113,
+    "max_mileage": 39996
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970bb"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8080,
+    "max_mileage": 34204
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970bc"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Auto Machado",
+    "min_mileage": 23248,
+    "max_mileage": 17567
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970bd"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13711,
+    "max_mileage": 14004
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970be"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13690,
+    "max_mileage": 31267
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970bf"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 10220,
+    "max_mileage": 44616
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c0"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21207,
+    "max_mileage": 23323
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c1"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10919,
+    "max_mileage": 42128
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c2"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21980,
+    "max_mileage": 19296
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c3"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18146,
+    "max_mileage": 20427
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c4"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 22737,
+    "max_mileage": 45955
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c5"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15491,
+    "max_mileage": 13885
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c6"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18197,
+    "max_mileage": 39861
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c7"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 21761,
+    "max_mileage": 12828
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c8"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 22202,
+    "max_mileage": 26918
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970c9"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Caetano Power",
+    "min_mileage": 11800,
+    "max_mileage": 18816
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ca"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 23285,
+    "max_mileage": 14762
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970cb"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8242,
+    "max_mileage": 32461
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970cc"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 5513,
+    "max_mileage": 32046
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970cd"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 15374,
+    "max_mileage": 27563
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ce"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21603,
+    "max_mileage": 11254
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970cf"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 16653,
+    "max_mileage": 33529
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d0"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 19898,
+    "max_mileage": 34262
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d1"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 18323,
+    "max_mileage": 44566
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d2"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 5592,
+    "max_mileage": 36494
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d3"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 5739,
+    "max_mileage": 17401
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d4"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 11975,
+    "max_mileage": 29310
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d5"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20494,
+    "max_mileage": 43535
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d6"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 20246,
+    "max_mileage": 16922
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d7"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Auto Machado",
+    "min_mileage": 9663,
+    "max_mileage": 38486
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d8"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Auto Machado",
+    "min_mileage": 22909,
+    "max_mileage": 23800
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970d9"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13065,
+    "max_mileage": 49440
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970da"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13524,
+    "max_mileage": 40868
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970db"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 14763,
+    "max_mileage": 14556
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970dc"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13916,
+    "max_mileage": 28758
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970dd"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 12966,
+    "max_mileage": 17241
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970de"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20579,
+    "max_mileage": 46411
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970df"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21383,
+    "max_mileage": 48648
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e0"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8356,
+    "max_mileage": 23302
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e1"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7434,
+    "max_mileage": 21694
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e2"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8054,
+    "max_mileage": 23572
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e3"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 11112,
+    "max_mileage": 29885
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e4"
+    },
+    "brand": "BMW",
+    "model": "X1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9137,
+    "max_mileage": 14197
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e5"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20083,
+    "max_mileage": 48544
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e6"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Caetano Power",
+    "min_mileage": 11061,
+    "max_mileage": 11343
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e7"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7387,
+    "max_mileage": 14370
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e8"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 14931,
+    "max_mileage": 46661
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970e9"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 23290,
+    "max_mileage": 49940
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ea"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12326,
+    "max_mileage": 24934
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970eb"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21197,
+    "max_mileage": 22414
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ec"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 17516,
+    "max_mileage": 47087
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ed"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21480,
+    "max_mileage": 33325
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ee"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17145,
+    "max_mileage": 19536
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ef"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14793,
+    "max_mileage": 34139
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f0"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Auto Machado",
+    "min_mileage": 7452,
+    "max_mileage": 40341
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f1"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 20217,
+    "max_mileage": 38893
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f2"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 5754,
+    "max_mileage": 45423
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f3"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20577,
+    "max_mileage": 28839
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f4"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22046,
+    "max_mileage": 49706
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f5"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 17571,
+    "max_mileage": 47454
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f6"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 16598,
+    "max_mileage": 19839
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f7"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 7226,
+    "max_mileage": 27880
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f8"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 19139,
+    "max_mileage": 42536
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970f9"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 21521,
+    "max_mileage": 15004
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970fa"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13805,
+    "max_mileage": 25809
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970fb"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Caetano Power",
+    "min_mileage": 7307,
+    "max_mileage": 29336
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970fc"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8249,
+    "max_mileage": 22907
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970fd"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10714,
+    "max_mileage": 48093
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970fe"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 14788,
+    "max_mileage": 26094
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89970ff"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Caetano Power",
+    "min_mileage": 14721,
+    "max_mileage": 42170
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997100"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12773,
+    "max_mileage": 39335
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997101"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14894,
+    "max_mileage": 27489
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997102"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18863,
+    "max_mileage": 19535
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997103"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 15663,
+    "max_mileage": 31608
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997104"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 10558,
+    "max_mileage": 37939
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997105"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 23448,
+    "max_mileage": 36990
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997106"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 23135,
+    "max_mileage": 33579
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997107"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 16167,
+    "max_mileage": 35726
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997108"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 22249,
+    "max_mileage": 16321
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997109"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21660,
+    "max_mileage": 14519
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899710a"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12514,
+    "max_mileage": 49684
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899710b"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 19352,
+    "max_mileage": 35184
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899710c"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16147,
+    "max_mileage": 22434
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899710d"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 14486,
+    "max_mileage": 46996
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899710e"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10888,
+    "max_mileage": 45969
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899710f"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 17243,
+    "max_mileage": 19549
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997110"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Caetano Power",
+    "min_mileage": 18042,
+    "max_mileage": 19466
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997111"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8834,
+    "max_mileage": 23188
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997112"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12629,
+    "max_mileage": 15157
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997113"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 8444,
+    "max_mileage": 44926
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997114"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 20853,
+    "max_mileage": 26981
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997115"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 5808,
+    "max_mileage": 28156
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997116"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19015,
+    "max_mileage": 35914
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997117"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14467,
+    "max_mileage": 34427
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997118"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19463,
+    "max_mileage": 35554
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997119"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12979,
+    "max_mileage": 29141
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899711a"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 11954,
+    "max_mileage": 27584
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899711b"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 16681,
+    "max_mileage": 22326
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899711c"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21915,
+    "max_mileage": 31302
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899711d"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15806,
+    "max_mileage": 12427
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899711e"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 14825,
+    "max_mileage": 35436
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899711f"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 7681,
+    "max_mileage": 44782
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997120"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 6675,
+    "max_mileage": 37976
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997121"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22312,
+    "max_mileage": 30615
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997122"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 21808,
+    "max_mileage": 44262
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997123"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 23198,
+    "max_mileage": 22583
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997124"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 11033,
+    "max_mileage": 23158
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997125"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 6499,
+    "max_mileage": 46210
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997126"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18299,
+    "max_mileage": 12755
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997127"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8266,
+    "max_mileage": 19144
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997128"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 19549,
+    "max_mileage": 10735
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997129"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20261,
+    "max_mileage": 40188
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899712a"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 6121,
+    "max_mileage": 44622
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899712b"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18262,
+    "max_mileage": 48245
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899712c"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 21861,
+    "max_mileage": 37480
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899712d"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8344,
+    "max_mileage": 23363
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899712e"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16582,
+    "max_mileage": 22714
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899712f"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13325,
+    "max_mileage": 14693
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997130"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6957,
+    "max_mileage": 21533
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997131"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14821,
+    "max_mileage": 36657
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997132"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10215,
+    "max_mileage": 23192
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997133"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6399,
+    "max_mileage": 41519
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997134"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7276,
+    "max_mileage": 20457
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997135"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7619,
+    "max_mileage": 16488
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997136"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7924,
+    "max_mileage": 21905
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997137"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20454,
+    "max_mileage": 23607
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997138"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13495,
+    "max_mileage": 40762
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997139"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 10879,
+    "max_mileage": 29070
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899713a"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22509,
+    "max_mileage": 10319
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899713b"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 14370,
+    "max_mileage": 46703
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899713c"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18889,
+    "max_mileage": 29808
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899713d"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7090,
+    "max_mileage": 14936
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899713e"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 11663,
+    "max_mileage": 47563
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899713f"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16711,
+    "max_mileage": 33133
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997140"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 22794,
+    "max_mileage": 17640
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997141"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 15694,
+    "max_mileage": 21183
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997142"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 22051,
+    "max_mileage": 35720
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997143"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 14755,
+    "max_mileage": 39241
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997144"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 17448,
+    "max_mileage": 35374
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997145"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 6529,
+    "max_mileage": 42147
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997146"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6103,
+    "max_mileage": 25564
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997147"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7351,
+    "max_mileage": 20443
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997148"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 8528,
+    "max_mileage": 17292
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997149"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 16266,
+    "max_mileage": 12521
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899714a"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 8897,
+    "max_mileage": 40371
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899714b"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 11879,
+    "max_mileage": 12368
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899714c"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 16347,
+    "max_mileage": 23706
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899714d"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13610,
+    "max_mileage": 45870
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899714e"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 13975,
+    "max_mileage": 10932
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899714f"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6930,
+    "max_mileage": 45345
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997150"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 5600,
+    "max_mileage": 29669
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997151"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7870,
+    "max_mileage": 25592
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997152"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 15025,
+    "max_mileage": 22681
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997153"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 6816,
+    "max_mileage": 34739
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997154"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22962,
+    "max_mileage": 19233
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997155"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21924,
+    "max_mileage": 43171
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997156"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11212,
+    "max_mileage": 14911
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997157"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 11164,
+    "max_mileage": 23810
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997158"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 18301,
+    "max_mileage": 38189
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997159"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8250,
+    "max_mileage": 47049
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899715a"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7346,
+    "max_mileage": 12037
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899715b"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 6584,
+    "max_mileage": 23597
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899715c"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 17067,
+    "max_mileage": 28835
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899715d"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 19437,
+    "max_mileage": 18534
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899715e"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 23167,
+    "max_mileage": 26783
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899715f"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 12479,
+    "max_mileage": 14731
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997160"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9966,
+    "max_mileage": 15991
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997161"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 10631,
+    "max_mileage": 36953
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997162"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21141,
+    "max_mileage": 19790
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997163"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 15486,
+    "max_mileage": 18513
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997164"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 15824,
+    "max_mileage": 26989
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997165"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 5786,
+    "max_mileage": 28951
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997166"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 14676,
+    "max_mileage": 48628
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997167"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18141,
+    "max_mileage": 15515
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997168"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 9095,
+    "max_mileage": 47526
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997169"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 20484,
+    "max_mileage": 49973
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899716a"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 8678,
+    "max_mileage": 38170
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899716b"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8026,
+    "max_mileage": 28833
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899716c"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8624,
+    "max_mileage": 37055
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899716d"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 8570,
+    "max_mileage": 21342
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899716e"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22464,
+    "max_mileage": 36761
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899716f"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 9910,
+    "max_mileage": 24888
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997170"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 21544,
+    "max_mileage": 46693
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997171"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13758,
+    "max_mileage": 48048
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997172"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13262,
+    "max_mileage": 37521
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997173"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13689,
+    "max_mileage": 12187
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997174"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 5964,
+    "max_mileage": 47754
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997175"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8120,
+    "max_mileage": 25009
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997176"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 14276,
+    "max_mileage": 38435
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997177"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14064,
+    "max_mileage": 43666
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997178"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18035,
+    "max_mileage": 47986
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997179"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21928,
+    "max_mileage": 25589
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899717a"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14948,
+    "max_mileage": 19828
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899717b"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8306,
+    "max_mileage": 13252
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899717c"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 10545,
+    "max_mileage": 11154
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899717d"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 13801,
+    "max_mileage": 35476
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899717e"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 20022,
+    "max_mileage": 43279
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899717f"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Caetano Power",
+    "min_mileage": 18526,
+    "max_mileage": 47660
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997180"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21711,
+    "max_mileage": 48828
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997181"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 18734,
+    "max_mileage": 19242
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997182"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 10913,
+    "max_mileage": 46660
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997183"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 10267,
+    "max_mileage": 32245
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997184"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18808,
+    "max_mileage": 13604
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997185"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14910,
+    "max_mileage": 47506
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997186"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 17146,
+    "max_mileage": 24219
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997187"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 11579,
+    "max_mileage": 39754
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997188"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 14052,
+    "max_mileage": 31369
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997189"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14812,
+    "max_mileage": 16977
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899718a"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 5954,
+    "max_mileage": 30790
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899718b"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 13438,
+    "max_mileage": 21176
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899718c"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8032,
+    "max_mileage": 46610
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899718d"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 15153,
+    "max_mileage": 41693
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899718e"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9171,
+    "max_mileage": 27652
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899718f"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 15752,
+    "max_mileage": 30299
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997190"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 18109,
+    "max_mileage": 23378
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997191"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12779,
+    "max_mileage": 32755
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997192"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 23146,
+    "max_mileage": 49317
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997193"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 6190,
+    "max_mileage": 32746
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997194"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6635,
+    "max_mileage": 35724
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997195"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 20587,
+    "max_mileage": 21674
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997196"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7299,
+    "max_mileage": 11083
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997197"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 16644,
+    "max_mileage": 47982
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997198"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14951,
+    "max_mileage": 44311
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997199"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7049,
+    "max_mileage": 36298
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899719a"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6420,
+    "max_mileage": 36829
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899719b"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21934,
+    "max_mileage": 23928
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899719c"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7934,
+    "max_mileage": 27874
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899719d"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13776,
+    "max_mileage": 48068
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899719e"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 22121,
+    "max_mileage": 45691
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899719f"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 9436,
+    "max_mileage": 17899
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a0"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 8779,
+    "max_mileage": 19657
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a1"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10408,
+    "max_mileage": 24322
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a2"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 15254,
+    "max_mileage": 33526
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a3"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 12846,
+    "max_mileage": 49676
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a4"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7843,
+    "max_mileage": 10455
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a5"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 13849,
+    "max_mileage": 42697
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a6"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8715,
+    "max_mileage": 36186
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a7"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18791,
+    "max_mileage": 32125
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a8"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 8436,
+    "max_mileage": 43491
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971a9"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22083,
+    "max_mileage": 27537
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971aa"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 23275,
+    "max_mileage": 21092
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ab"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14044,
+    "max_mileage": 22122
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ac"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12704,
+    "max_mileage": 33413
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ad"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12060,
+    "max_mileage": 25996
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ae"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 6362,
+    "max_mileage": 38271
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971af"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 15420,
+    "max_mileage": 48991
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b0"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 6198,
+    "max_mileage": 22370
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b1"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 16307,
+    "max_mileage": 36801
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b2"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11469,
+    "max_mileage": 30510
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b3"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20826,
+    "max_mileage": 42371
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b4"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8136,
+    "max_mileage": 37199
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b5"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17283,
+    "max_mileage": 42269
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b6"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 23320,
+    "max_mileage": 25406
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b7"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 15291,
+    "max_mileage": 34888
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b8"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12655,
+    "max_mileage": 33761
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971b9"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18248,
+    "max_mileage": 36911
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ba"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 21415,
+    "max_mileage": 19264
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971bb"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 20879,
+    "max_mileage": 28004
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971bc"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Caetano Power",
+    "min_mileage": 19003,
+    "max_mileage": 41996
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971bd"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16215,
+    "max_mileage": 13782
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971be"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 18849,
+    "max_mileage": 41102
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971bf"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 11978,
+    "max_mileage": 18354
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c0"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 9464,
+    "max_mileage": 30847
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c1"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11519,
+    "max_mileage": 13263
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c2"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19294,
+    "max_mileage": 38692
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c3"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 6684,
+    "max_mileage": 35680
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c4"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 11399,
+    "max_mileage": 28170
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c5"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 18170,
+    "max_mileage": 49853
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c6"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 11476,
+    "max_mileage": 48630
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c7"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13255,
+    "max_mileage": 33658
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c8"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 23393,
+    "max_mileage": 27720
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971c9"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 11847,
+    "max_mileage": 45813
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ca"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13691,
+    "max_mileage": 23668
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971cb"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13460,
+    "max_mileage": 43732
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971cc"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 19126,
+    "max_mileage": 11133
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971cd"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 17478,
+    "max_mileage": 12103
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ce"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6787,
+    "max_mileage": 13363
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971cf"
+    },
+    "brand": "BMW",
+    "model": "X5",
+    "dealer": "Auto Machado",
+    "min_mileage": 22442,
+    "max_mileage": 13459
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d0"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14300,
+    "max_mileage": 35609
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d1"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Machado",
+    "min_mileage": 14479,
+    "max_mileage": 16505
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d2"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 20454,
+    "max_mileage": 16701
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d3"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8775,
+    "max_mileage": 15509
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d4"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 17175,
+    "max_mileage": 17064
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d5"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 14536,
+    "max_mileage": 44009
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d6"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20646,
+    "max_mileage": 31442
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d7"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14348,
+    "max_mileage": 16131
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d8"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Machado",
+    "min_mileage": 15744,
+    "max_mileage": 24630
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971d9"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 17278,
+    "max_mileage": 18812
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971da"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12355,
+    "max_mileage": 38494
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971db"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 15756,
+    "max_mileage": 48172
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971dc"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 18848,
+    "max_mileage": 28539
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971dd"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 22522,
+    "max_mileage": 33356
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971de"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12311,
+    "max_mileage": 18333
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971df"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 8684,
+    "max_mileage": 41115
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e0"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18128,
+    "max_mileage": 44381
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e1"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 18433,
+    "max_mileage": 48165
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e2"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 22584,
+    "max_mileage": 13433
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e3"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Machado",
+    "min_mileage": 6443,
+    "max_mileage": 16016
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e4"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9588,
+    "max_mileage": 10350
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e5"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6353,
+    "max_mileage": 49913
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e6"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Machado",
+    "min_mileage": 21350,
+    "max_mileage": 34313
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e7"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 9693,
+    "max_mileage": 37666
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e8"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 22427,
+    "max_mileage": 43736
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971e9"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21954,
+    "max_mileage": 42385
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ea"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Jamor",
+    "min_mileage": 6090,
+    "max_mileage": 29509
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971eb"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6132,
+    "max_mileage": 27235
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ec"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 22824,
+    "max_mileage": 48609
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ed"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21025,
+    "max_mileage": 38521
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ee"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 13592,
+    "max_mileage": 15739
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ef"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 16840,
+    "max_mileage": 13828
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f0"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Machado",
+    "min_mileage": 11399,
+    "max_mileage": 31894
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f1"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13315,
+    "max_mileage": 45555
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f2"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12102,
+    "max_mileage": 10052
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f3"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8666,
+    "max_mileage": 11613
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f4"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Machado",
+    "min_mileage": 8736,
+    "max_mileage": 42948
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f5"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12833,
+    "max_mileage": 46198
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f6"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14807,
+    "max_mileage": 49131
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f7"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9790,
+    "max_mileage": 34688
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f8"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9599,
+    "max_mileage": 28440
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971f9"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20334,
+    "max_mileage": 36971
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971fa"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 18291,
+    "max_mileage": 19460
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971fb"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14172,
+    "max_mileage": 27380
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971fc"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 21122,
+    "max_mileage": 13723
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971fd"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 21507,
+    "max_mileage": 42723
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971fe"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 15920,
+    "max_mileage": 20935
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89971ff"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17896,
+    "max_mileage": 46695
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997200"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 22882,
+    "max_mileage": 37304
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997201"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Machado",
+    "min_mileage": 8526,
+    "max_mileage": 41992
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997202"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 23126,
+    "max_mileage": 23517
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997203"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12421,
+    "max_mileage": 12464
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997204"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20830,
+    "max_mileage": 45636
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997205"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Machado",
+    "min_mileage": 9480,
+    "max_mileage": 22196
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997206"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15543,
+    "max_mileage": 19473
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997207"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 22945,
+    "max_mileage": 24892
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997208"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7702,
+    "max_mileage": 17432
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997209"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 17170,
+    "max_mileage": 30273
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899720a"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 22738,
+    "max_mileage": 28277
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899720b"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9391,
+    "max_mileage": 42618
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899720c"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Caetano Power",
+    "min_mileage": 10913,
+    "max_mileage": 40034
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899720d"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 16973,
+    "max_mileage": 33730
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899720e"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 9596,
+    "max_mileage": 19386
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899720f"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 16266,
+    "max_mileage": 18578
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997210"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 12529,
+    "max_mileage": 13423
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997211"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Jamor",
+    "min_mileage": 5752,
+    "max_mileage": 31979
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997212"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14776,
+    "max_mileage": 37571
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997213"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22059,
+    "max_mileage": 15102
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997214"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20251,
+    "max_mileage": 13525
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997215"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Caetano Power",
+    "min_mileage": 21966,
+    "max_mileage": 16056
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997216"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 15440,
+    "max_mileage": 48317
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997217"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 5987,
+    "max_mileage": 19499
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997218"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 15638,
+    "max_mileage": 38535
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997219"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9076,
+    "max_mileage": 27693
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899721a"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 18794,
+    "max_mileage": 32195
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899721b"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16089,
+    "max_mileage": 35941
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899721c"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7889,
+    "max_mileage": 21784
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899721d"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 16304,
+    "max_mileage": 48853
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899721e"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 10513,
+    "max_mileage": 29354
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899721f"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19674,
+    "max_mileage": 45126
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997220"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21075,
+    "max_mileage": 30548
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997221"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20652,
+    "max_mileage": 12531
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997222"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Caetano Power",
+    "min_mileage": 5904,
+    "max_mileage": 16807
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997223"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 5570,
+    "max_mileage": 47935
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997224"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 19152,
+    "max_mileage": 47686
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997225"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20159,
+    "max_mileage": 45363
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997226"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Auto Machado",
+    "min_mileage": 8732,
+    "max_mileage": 40904
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997227"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21981,
+    "max_mileage": 23909
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997228"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Santogal Jump",
+    "min_mileage": 7328,
+    "max_mileage": 31879
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997229"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21866,
+    "max_mileage": 13489
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899722a"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6931,
+    "max_mileage": 26220
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899722b"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 19300,
+    "max_mileage": 41866
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899722c"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Machado",
+    "min_mileage": 8388,
+    "max_mileage": 27553
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899722d"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20809,
+    "max_mileage": 21616
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899722e"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 13658,
+    "max_mileage": 16582
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899722f"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Machado",
+    "min_mileage": 9861,
+    "max_mileage": 45838
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997230"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13864,
+    "max_mileage": 35777
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997231"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Santogal Jump",
+    "min_mileage": 11643,
+    "max_mileage": 43701
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997232"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Machado",
+    "min_mileage": 21733,
+    "max_mileage": 18792
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997233"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21010,
+    "max_mileage": 32417
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997234"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6976,
+    "max_mileage": 13766
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997235"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6746,
+    "max_mileage": 26015
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997236"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13054,
+    "max_mileage": 44986
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997237"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7439,
+    "max_mileage": 12189
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997238"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 7323,
+    "max_mileage": 42779
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997239"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19552,
+    "max_mileage": 43784
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899723a"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 5971,
+    "max_mileage": 39181
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899723b"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Caetano Power",
+    "min_mileage": 17015,
+    "max_mileage": 45700
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899723c"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 23342,
+    "max_mileage": 36910
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899723d"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12102,
+    "max_mileage": 13017
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899723e"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 15210,
+    "max_mileage": 19941
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899723f"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Caetano Power",
+    "min_mileage": 14585,
+    "max_mileage": 13591
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997240"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 20527,
+    "max_mileage": 18419
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997241"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17461,
+    "max_mileage": 34943
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997242"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22604,
+    "max_mileage": 33053
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997243"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 9857,
+    "max_mileage": 14249
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997244"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Auto Machado",
+    "min_mileage": 20412,
+    "max_mileage": 13345
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997245"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Caetano Power",
+    "min_mileage": 13660,
+    "max_mileage": 18799
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997246"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Caetano Power",
+    "min_mileage": 17239,
+    "max_mileage": 31530
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997247"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 19647,
+    "max_mileage": 26811
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997248"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17676,
+    "max_mileage": 20100
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997249"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 11530,
+    "max_mileage": 45833
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899724a"
+    },
+    "brand": "AUDI",
+    "model": "Q3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9952,
+    "max_mileage": 17514
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899724b"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21054,
+    "max_mileage": 47497
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899724c"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 16244,
+    "max_mileage": 20761
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899724d"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Auto Jamor",
+    "min_mileage": 19411,
+    "max_mileage": 28421
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899724e"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Caetano Power",
+    "min_mileage": 18996,
+    "max_mileage": 38477
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899724f"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Machado",
+    "min_mileage": 7159,
+    "max_mileage": 21324
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997250"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13086,
+    "max_mileage": 28747
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997251"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8929,
+    "max_mileage": 27247
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997252"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 12383,
+    "max_mileage": 47172
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997253"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8507,
+    "max_mileage": 38054
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997254"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 8670,
+    "max_mileage": 13436
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997255"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Caetano Power",
+    "min_mileage": 6074,
+    "max_mileage": 36800
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997256"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8193,
+    "max_mileage": 41397
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997257"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Caetano Power",
+    "min_mileage": 17061,
+    "max_mileage": 24133
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997258"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 12000,
+    "max_mileage": 47316
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997259"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 18418,
+    "max_mileage": 41916
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899725a"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 22829,
+    "max_mileage": 32190
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899725b"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 5687,
+    "max_mileage": 13828
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899725c"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Caetano Power",
+    "min_mileage": 18781,
+    "max_mileage": 36463
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899725d"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Caetano Power",
+    "min_mileage": 18344,
+    "max_mileage": 15379
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899725e"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Caetano Power",
+    "min_mileage": 9484,
+    "max_mileage": 42684
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899725f"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Caetano Power",
+    "min_mileage": 11735,
+    "max_mileage": 14988
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997260"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14427,
+    "max_mileage": 25182
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997261"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21120,
+    "max_mileage": 44759
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997262"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14100,
+    "max_mileage": 23671
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997263"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Auto Machado",
+    "min_mileage": 21543,
+    "max_mileage": 18066
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997264"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 7335,
+    "max_mileage": 39835
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997265"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 10212,
+    "max_mileage": 26887
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997266"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 10292,
+    "max_mileage": 20476
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997267"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10617,
+    "max_mileage": 39261
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997268"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 18828,
+    "max_mileage": 12703
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997269"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 5851,
+    "max_mileage": 39565
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899726a"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 10733,
+    "max_mileage": 34758
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899726b"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20840,
+    "max_mileage": 27343
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899726c"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 19469,
+    "max_mileage": 42823
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899726d"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Auto Jamor",
+    "min_mileage": 20010,
+    "max_mileage": 29376
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899726e"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8483,
+    "max_mileage": 10725
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899726f"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Caetano Power",
+    "min_mileage": 14180,
+    "max_mileage": 30040
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997270"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16882,
+    "max_mileage": 37872
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997271"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10613,
+    "max_mileage": 12029
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997272"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 11304,
+    "max_mileage": 38424
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997273"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Machado",
+    "min_mileage": 23196,
+    "max_mileage": 48799
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997274"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8215,
+    "max_mileage": 16117
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997275"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 9041,
+    "max_mileage": 25844
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997276"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18184,
+    "max_mileage": 25352
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997277"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 20452,
+    "max_mileage": 42149
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997278"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Jamor",
+    "min_mileage": 10915,
+    "max_mileage": 15083
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997279"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 23234,
+    "max_mileage": 36519
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899727a"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 15529,
+    "max_mileage": 37420
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899727b"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Auto Machado",
+    "min_mileage": 10972,
+    "max_mileage": 35008
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899727c"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18419,
+    "max_mileage": 13094
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899727d"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8161,
+    "max_mileage": 47598
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899727e"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Machado",
+    "min_mileage": 21505,
+    "max_mileage": 18383
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899727f"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 16997,
+    "max_mileage": 32662
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997280"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21007,
+    "max_mileage": 45387
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997281"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20985,
+    "max_mileage": 10527
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997282"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 11027,
+    "max_mileage": 26676
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997283"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Caetano Power",
+    "min_mileage": 13999,
+    "max_mileage": 23750
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997284"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Jamor",
+    "min_mileage": 17783,
+    "max_mileage": 12457
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997285"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6501,
+    "max_mileage": 47796
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997286"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 15498,
+    "max_mileage": 10447
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997287"
+    },
+    "brand": "AUDI",
+    "model": "Q2",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 5726,
+    "max_mileage": 28690
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997288"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Caetano Power",
+    "min_mileage": 12370,
+    "max_mileage": 48565
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997289"
+    },
+    "brand": "VW",
+    "model": "POLO",
+    "dealer": "Auto Machado",
+    "min_mileage": 18155,
+    "max_mileage": 34519
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899728a"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Machado",
+    "min_mileage": 7675,
+    "max_mileage": 19947
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899728b"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Auto Machado",
+    "min_mileage": 15933,
+    "max_mileage": 40516
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899728c"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14474,
+    "max_mileage": 46731
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899728d"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Caetano Power",
+    "min_mileage": 20313,
+    "max_mileage": 36794
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899728e"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 20843,
+    "max_mileage": 49649
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899728f"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Caetano Power",
+    "min_mileage": 19798,
+    "max_mileage": 20774
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997290"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Auto Machado",
+    "min_mileage": 10072,
+    "max_mileage": 31150
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997291"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Machado",
+    "min_mileage": 16988,
+    "max_mileage": 41711
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997292"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21447,
+    "max_mileage": 17970
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997293"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Caetano Power",
+    "min_mileage": 19183,
+    "max_mileage": 28150
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997294"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 8863,
+    "max_mileage": 43024
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997295"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 16710,
+    "max_mileage": 25842
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997296"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Auto Machado",
+    "min_mileage": 10317,
+    "max_mileage": 25390
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997297"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Machado",
+    "min_mileage": 21776,
+    "max_mileage": 34837
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997298"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 5927,
+    "max_mileage": 37622
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea8997299"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17780,
+    "max_mileage": 24680
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899729a"
+    },
+    "brand": "SEAT",
+    "model": "LEON",
+    "dealer": "Auto Machado",
+    "min_mileage": 5900,
+    "max_mileage": 18789
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899729b"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 6131,
+    "max_mileage": 32067
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899729c"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Caetano Power",
+    "min_mileage": 14469,
+    "max_mileage": 10054
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899729d"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 10761,
+    "max_mileage": 23153
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899729e"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Jamor",
+    "min_mileage": 5932,
+    "max_mileage": 39838
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea899729f"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Caetano Power",
+    "min_mileage": 5501,
+    "max_mileage": 35955
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a0"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Caetano Power",
+    "min_mileage": 7390,
+    "max_mileage": 40542
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a1"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Caetano Power",
+    "min_mileage": 6797,
+    "max_mileage": 30971
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a2"
+    },
+    "brand": "SKODA",
+    "model": "OCTAVIA",
+    "dealer": "Auto Machado",
+    "min_mileage": 22874,
+    "max_mileage": 48901
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a3"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13322,
+    "max_mileage": 33327
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a4"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 13418,
+    "max_mileage": 18241
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a5"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18304,
+    "max_mileage": 39718
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a6"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 8206,
+    "max_mileage": 20925
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a7"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 19010,
+    "max_mileage": 13427
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a8"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Santogal Jump",
+    "min_mileage": 12622,
+    "max_mileage": 29264
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972a9"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 6309,
+    "max_mileage": 20706
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972aa"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 13219,
+    "max_mileage": 33184
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972ab"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Caetano Power",
+    "min_mileage": 11701,
+    "max_mileage": 11795
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972ac"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Jamor",
+    "min_mileage": 5808,
+    "max_mileage": 39867
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972ad"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 17327,
+    "max_mileage": 15041
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972ae"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22577,
+    "max_mileage": 41171
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972af"
+    },
+    "brand": "VW",
+    "model": "GOLF",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 10777,
+    "max_mileage": 30026
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b0"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 6344,
+    "max_mileage": 29668
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b1"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Caetano Power",
+    "min_mileage": 8603,
+    "max_mileage": 19764
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b2"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Santogal Jump",
+    "min_mileage": 16862,
+    "max_mileage": 49429
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b3"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 20010,
+    "max_mileage": 33191
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b4"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 10600,
+    "max_mileage": 38071
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b5"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Machado",
+    "min_mileage": 19687,
+    "max_mileage": 38350
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b6"
+    },
+    "brand": "AUDI",
+    "model": "A1",
+    "dealer": "Auto Machado",
+    "min_mileage": 22306,
+    "max_mileage": 44544
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b7"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18101,
+    "max_mileage": 29198
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b8"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Santogal Jump",
+    "min_mileage": 10133,
+    "max_mileage": 14505
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972b9"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Machado",
+    "min_mileage": 20124,
+    "max_mileage": 15392
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972ba"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Machado",
+    "min_mileage": 17391,
+    "max_mileage": 46596
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972bb"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Auto Jamor",
+    "min_mileage": 14592,
+    "max_mileage": 23370
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972bc"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Auto Machado",
+    "min_mileage": 13186,
+    "max_mileage": 32889
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972bd"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Caetano Power",
+    "min_mileage": 15940,
+    "max_mileage": 46984
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972be"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Caetano Power",
+    "min_mileage": 20035,
+    "max_mileage": 46790
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972bf"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Auto Jamor",
+    "min_mileage": 7634,
+    "max_mileage": 11671
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c0"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Caetano Power",
+    "min_mileage": 5650,
+    "max_mileage": 20634
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c1"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Auto Machado",
+    "min_mileage": 7985,
+    "max_mileage": 33525
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c2"
+    },
+    "brand": "SKODA",
+    "model": "KAROQ",
+    "dealer": "Caetano Power",
+    "min_mileage": 18159,
+    "max_mileage": 40717
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c3"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Caetano Power",
+    "min_mileage": 11982,
+    "max_mileage": 30911
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c4"
+    },
+    "brand": "TESLA",
+    "model": "model X",
+    "dealer": "Caetano Power",
+    "min_mileage": 17572,
+    "max_mileage": 37241
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c5"
+    },
+    "brand": "PEUGEOUT",
+    "model": "308",
+    "dealer": "Santogal Jump",
+    "min_mileage": 21719,
+    "max_mileage": 25482
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c6"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 17500,
+    "max_mileage": 35116
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c7"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Auto Jamor",
+    "min_mileage": 21561,
+    "max_mileage": 35070
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c8"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Auto Jamor",
+    "min_mileage": 9078,
+    "max_mileage": 11748
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972c9"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 14381,
+    "max_mileage": 43110
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972ca"
+    },
+    "brand": "TESLA",
+    "model": "model 3",
+    "dealer": "Auto Machado",
+    "min_mileage": 12569,
+    "max_mileage": 40704
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972cb"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Auto Machado",
+    "min_mileage": 11997,
+    "max_mileage": 35783
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972cc"
+    },
+    "brand": "BMW",
+    "model": "i3",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 17377,
+    "max_mileage": 49545
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972cd"
+    },
+    "brand": "VW",
+    "model": "EOS",
+    "dealer": "Santogal Jump",
+    "min_mileage": 19742,
+    "max_mileage": 11536
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972ce"
+    },
+    "brand": "SEAT",
+    "model": "Ibiza",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 19177,
+    "max_mileage": 32489
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972cf"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 18998,
+    "max_mileage": 45545
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972d0"
+    },
+    "brand": "TESLA",
+    "model": "model S",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 14394,
+    "max_mileage": 26749
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972d1"
+    },
+    "brand": "PEUGEOUT",
+    "model": "208",
+    "dealer": "Cucujães Sport Auto",
+    "min_mileage": 21464,
+    "max_mileage": 36757
+  },
+  {
+    "_id": {
+      "$oid": "61eb27f91d2f10cea89972d2"
+    },
+    "brand": "AUDI",
+    "model": "A3",
+    "dealer": "Santogal Jump",
+    "min_mileage": 22094,
+    "max_mileage": 19826
+  }
+]
